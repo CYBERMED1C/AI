@@ -1,9 +1,9 @@
-https://openwebui.com/ - used to host locally a UI for AI Models. Good for offline tools
+- https://openwebui.com/ - used to host locally a UI for AI Models. Good for offline tools
 
-Sites like https://www.kaggle.com/ offer access to real-world datasets and notebooks that you can download and experiment with to practice anomaly detection using tools such as the OpenAI API and Python libraries. Kaggle hosts competitions, tutorials, and community discussions that make it easier for learners to apply AI concepts to cybersecurity challenges..
+- Sites like https://www.kaggle.com/ offer access to real-world datasets and notebooks that you can download and experiment with to practice anomaly detection using tools such as the OpenAI API and Python libraries. Kaggle hosts competitions, tutorials, and community discussions that make it easier for learners to apply AI concepts to cybersecurity challenges..
 
-Machine learning (ML) is a branch of AI that involves teaching computers to learn from data, identify patterns, and make decisions with minimal human intervention.
-Statistical learning, which underpins machine learning, focuses on developing mathematical models to explain and predict data behavior, making it useful for tasks like anomaly detection and predictive analytics.
+- Machine learning (ML) is a branch of AI that involves teaching computers to learn from data, identify patterns, and make decisions with minimal human intervention.
+- Statistical learning, which underpins machine learning, focuses on developing mathematical models to explain and predict data behavior, making it useful for tasks like anomaly detection and predictive analytics.
 
-Supervised learning involves training a model on a labeled dataset, where each input is paired with a correct output 
-unsupervised learning utilizes unlabeled data to identify patterns and anomalies, and excels at discovering previously unknown threats. 
+- Supervised learning involves training a model on a labeled dataset, where each input is paired with a correct output 
+- unsupervised learning utilizes unlabeled data to identify patterns and anomalies, and excels at discovering previously unknown threats. 
