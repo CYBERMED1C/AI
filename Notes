@@ -7,3 +7,13 @@
 
 - Supervised learning involves training a model on a labeled dataset, where each input is paired with a correct output 
 - unsupervised learning utilizes unlabeled data to identify patterns and anomalies, and excels at discovering previously unknown threats. 
+
+
+- https://www.nist.gov/itl/ai-risk-management-framework
+Led by the Information Technology Laboratory (ITL) AI Program, and in collaboration with the private and public sectors, NIST has developed a framework to better manage risks to individuals, organizations, and society associated with artificial intelligence (AI). The NIST AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems.
+
+- https://atlas.mitre.org/
+MITRE ATLAS is a living knowledge base that catalogs real-world adversary tactics and techniques used against artificial intelligence and machine learning systems
+
+- https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Educational-Resources
+- https://owasp.org/projects/top-10-for-large-language-model-applications
